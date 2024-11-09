@@ -1,2 +1,2 @@
-# infrastructure-as
+# infrastructure-as a code
 new repositire
